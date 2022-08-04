@@ -6,4 +6,8 @@
     <name>hbase.zookeeper.quorum</name>
     <value>hadoop104,hadoop103,hadoop102</value>
   </property> 
+    <property>
+    <name>name</name>
+    <value>shugj</value>
+  </property> 
 </configuration>
